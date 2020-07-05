@@ -1,4 +1,4 @@
-// W.I.P. menu!
+/* W.I.P. menu! */
 
 // Remove Will's Cheat Menu
 $("#cheat-menu")[0].remove();
